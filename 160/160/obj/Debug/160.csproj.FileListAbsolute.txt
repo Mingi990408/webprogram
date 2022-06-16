@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\160\160\bin\Debug\160.exe.config
+C:\Users\Administrator\source\repos\160\160\bin\Debug\160.exe
+C:\Users\Administrator\source\repos\160\160\bin\Debug\160.pdb
+C:\Users\Administrator\source\repos\160\160\obj\Debug\160.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\160\160\obj\Debug\160.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\160\160\obj\Debug\_160.Form1.resources
+C:\Users\Administrator\source\repos\160\160\obj\Debug\_160.Properties.Resources.resources
+C:\Users\Administrator\source\repos\160\160\obj\Debug\160.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\160\160\obj\Debug\160.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\160\160\obj\Debug\160.exe
+C:\Users\Administrator\source\repos\160\160\obj\Debug\160.pdb

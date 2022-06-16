@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\154\154\bin\Debug\154.exe.config
+C:\Users\Administrator\source\repos\154\154\bin\Debug\154.exe
+C:\Users\Administrator\source\repos\154\154\bin\Debug\154.pdb
+C:\Users\Administrator\source\repos\154\154\obj\Debug\154.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\154\154\obj\Debug\154.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\154\154\obj\Debug\_154.Form1.resources
+C:\Users\Administrator\source\repos\154\154\obj\Debug\_154.Properties.Resources.resources
+C:\Users\Administrator\source\repos\154\154\obj\Debug\154.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\154\154\obj\Debug\154.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\154\154\obj\Debug\154.exe
+C:\Users\Administrator\source\repos\154\154\obj\Debug\154.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\146\146\bin\Debug\146.exe.config
+C:\Users\Administrator\source\repos\146\146\bin\Debug\146.exe
+C:\Users\Administrator\source\repos\146\146\bin\Debug\146.pdb
+C:\Users\Administrator\source\repos\146\146\obj\Debug\146.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\146\146\obj\Debug\146.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\146\146\obj\Debug\_146.Form1.resources
+C:\Users\Administrator\source\repos\146\146\obj\Debug\_146.Properties.Resources.resources
+C:\Users\Administrator\source\repos\146\146\obj\Debug\146.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\146\146\obj\Debug\146.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\146\146\obj\Debug\146.exe
+C:\Users\Administrator\source\repos\146\146\obj\Debug\146.pdb
